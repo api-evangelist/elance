@@ -1,0 +1,77 @@
+{
+    "name": "Elance",
+    "description": "Find freelancers and freelance jobs on Upwork - the world's largest online workplace where savvy businesses and professional freelancers go to work!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/585-elance.jpg",
+    "tags": [
+        "api not found",
+        "contract management",
+        "freelance",
+        "freelance work",
+        "have api",
+        "job management",
+        "marketplaces",
+        "recruiting"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/elance\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Elance",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/585-elance.jpg",
+            "humanURL": "https:\/\/www.elance.com\/p\/api2",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.elance.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.elance.com\/q\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/odesk"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/elance"
+        },
+        {
+            "type": "Email",
+            "url": "accommodation@upwork.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@upwork.com"
+        },
+        {
+            "type": "Email",
+            "url": "partners@upwork.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/elance"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/elance"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Upwork"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.elance.com\/p\/api2"
+        }
+    ]
+}
